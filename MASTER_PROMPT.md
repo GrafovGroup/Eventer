@@ -91,3 +91,7 @@ Potential operational synergies with existing brands (EventPhoto.ca, SkyShows.ca
 
 ## 14. Approved scope expansion — ALL event types (2026-10-28)
 EVENTER serves ALL major event audiences: corporate/business, weddings, birthdays and private celebrations, concerts/festivals, trade shows/exhibitions, municipal/community, sports, education/institutions, nonprofit/charity, religious/cultural, luxury/VIP, film/entertainment, virtual/hybrid, seasonal/holiday. Do not position as B2B-only. Preserve corporate credibility while making the experience welcoming for private-event customers. Build EVENT TYPES hub and dedicated, useful pages with unique imagery, FAQs, tailored services and quote CTAs. Include all types in EN/FR navigation, internal linking, metadata, sitemap, quote-form selector and lead qualification. Bundle core and ancillary services across event types. Never fabricate operational availability or licenses. Read docs/EVENT_TYPES_SCOPE.md as the authoritative taxonomy and phased rollout plan.
+
+
+## 15. Approved homepage ordering (2026-10-28)
+Corporate events and conferences MUST be the first featured event category. Then feature weddings/private celebrations, festivals/concerts/public events, and trade shows/exhibitions. Follow with rentals/production, ancillary services, process, locations, FAQs and quote CTA. Keep all event types accessible; corporate-first is a merchandising priority, not an exclusivity claim. Follow docs/HOMEPAGE_PRIORITIES.md.
