@@ -66,3 +66,24 @@ All approved branding present; forbidden wording absent; complete working servic
 
 ## 13. Start now
 Inspect the repository and report current contents. Begin Phase 0 with sourced competitor/market research and Phase 1A brand assets/design tokens. Prepare the first implementable architecture and work through remaining phases without needless approval loops. Ask for missing verified operational details when necessary. Preserve the EVENTER creative contemporary identity and tagline 'EVERYTHING EVENTS.'.
+
+
+## 3A. Ancillary and specialist event services — mandatory expansion (2026-10-28)
+EVENTER must present the full event-service ecosystem, not just rentals and production. Add dedicated hub and substantial detail pages for commercially feasible services:
+- Event security: licensed guards, event access control, credential checking, crowd-management support, VIP security, overnight asset security, bag screening where legally permitted.
+- Event photography and videography: corporate photography, photo booths, headshots, event recap videos, livestream capture, editing, content delivery.
+- Event staffing: hosts, ushers, registration staff, brand ambassadors, event attendants, setup/teardown teams.
+- Catering and hospitality coordination: food and beverage vendors, bartenders, service staff, food stations, guest hospitality.
+- Entertainment and talent: DJs, MCs, musicians, performers, speakers, interactive activations.
+- Cleaning and waste: pre-event cleaning, on-site attendants, washroom servicing, post-event cleanup, recycling and waste handling.
+- Decor and styling: florals, balloons, backdrops, themed decor, scenic elements, branded installations.
+- Technology and registration: Wi-Fi coordination, iPad rentals, badge printing, check-in systems, event apps, livestream and hybrid-event support.
+- Guest and equipment transport: shuttles, valet coordination, loading, delivery and transportation logistics.
+- Safety and accessibility: qualified first aid, emergency planning coordination, extinguishers, accessibility ramps, site safety support.
+- Marketing and print: event signage, banners, wayfinding, printing, branded merchandise, promotional assets.
+- Specialty experiences: drone light shows, aerial photography, generators, portable sanitation, temporary structures and specialty rentals.
+These are service categories to evaluate and build, not representations that every service is currently available. For regulated work (security, liquor service, drone operations, medical services, food handling, transport, structural/rigging), verify province-specific requirements and use appropriately licensed or qualified execution partners. Do not promise coverage before capability verification.
+
+Navigation: Add an ANCILLARY SERVICES or EVENT SUPPORT mega-menu section beneath SERVICES. Service detail pages must include unique imagery, scope, audience, FAQs, cross-sells, local applicability and quote CTA. Extend English/French translations, metadata, structured data, internal linking, sitemap, and quote-form service selections. Add SEO topic clusters for event security, event photography, event videography, event cleaning, event staffing and catering coordination, prioritizing real demand and differentiated pages over thin SEO pages.
+Cross-sell examples: trade show -> guards, check-in iPads, photography, overnight asset security, cleaning; gala -> photography, entertainment, catering, security; festival -> barriers, guards, first aid, portable sanitation, cleanup.
+Potential operational synergies with existing brands (EventPhoto.ca, SkyShows.ca, I Love Events and rental brands) are internal planning inputs only; do not assert formal partnerships, transfer customer data, or publicly cross-brand without approval.
