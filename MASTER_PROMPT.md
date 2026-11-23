@@ -38,6 +38,15 @@ Image-rich throughout: at least 15 distinct high-quality licensed/owned/generate
 Primary CTA REQUEST A QUOTE, secondary CALL NOW/CONTACT. Quote form: name, company, email, phone, event type, city/province, venue (optional), event date(s), attendee count, service selections, rental/equipment requirements, setup/teardown windows, budget optional, details, consent, attachment only if backend supports. Use accessible labels, client/server validation, spam controls, error/success handling, honeypot/rate limiting as appropriate, no exposed secrets, and a test matrix. Proposed info@eventer.ca and 833-877-8737 are NOT confirmed for this brand; configure centrally and verify before publishing. Do not invent Formspree endpoint. Test delivery to the intended inbox with synthetic submissions only after approval, and document receipt. Include source attribution/UTM tracking only with privacy-compliant consent and configuration. No fake quote submissions.
 
 ## 8. SEO, AEO and technical search
+
+**Editorial standard · Google E-E-A-T**
+
+Start with the decision the reader came to make. Where first-hand experience helps, use work the publisher can document and share. Identify who produced or reviewed technical guidance where readers would expect it, and explain the method when it affects interpretation. Support consequential claims with the most relevant original source. Claim outside recognition or credentials only when readers can verify them.
+
+For an event case study, document the organizer’s role, the event scope and permission to identify the client or venue. Label concept imagery and sample itineraries. Verify venue capacity and accessibility with the venue before making a specific claim.
+
+At content review, trace a material claim on a representative page back to its source. Correct, qualify or omit an unsupported claim, including in translated copy and structured data where present. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 Perform keyword mapping by service, event type, industry and location. Implement unique title/meta, one H1, semantic sections, internal links, canonical, robots.txt, sitemap index and per-language sitemaps, 301 redirects for changed URLs, Open Graph/Twitter cards, JSON-LD Organization/Service/BreadcrumbList/FAQPage only where truthful and valid, accessible FAQs and concise answer-oriented summaries. Never promise FAQ rich results, ranking, or indexing. Provide Search Console/Bing Webmaster verification checklist and exact sitemap URL(s); only claim submission if verified. No invented review ratings or local business addresses. Check noindex/canonical/hreflang conflicts and robots/sitemap crawlability. Build scalable content architecture rather than generating thousands of thin pages.
 
 ## 9. UX, accessibility and performance
